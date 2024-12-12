@@ -1,0 +1,28 @@
+{
+    "Data1": {
+        "stringData": "data1",
+        "intData": 1,
+        "floatData": 0.4775,
+        "enumData": 0
+    },
+    "Data2": {
+        "stringData": "data2",
+        "intData": 2,
+        "floatData": 0.75,
+        "enumData": 1
+    },
+    "Data3": [
+        {
+            "stringData": "Config1",
+            "intData": 56,
+            "floatData": 547.0,
+            "enumData": 1
+        },
+        {
+            "stringData": "Config2",
+            "intData": 5,
+            "floatData": 7.0,
+            "enumData": 0
+        }
+    ]
+}
