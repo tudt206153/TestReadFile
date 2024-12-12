@@ -2,13 +2,13 @@
     "Data1": {
         "stringData": "data1",
         "intData": 1,
-        "floatData": 0.4775,
+        "floatData": 0.022,
         "enumData": 0
     },
     "Data2": {
         "stringData": "data2",
         "intData": 2,
-        "floatData": 0.75,
+        "floatData": 0.999,
         "enumData": 1
     },
     "Data3": [
